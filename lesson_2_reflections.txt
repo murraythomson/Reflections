@@ -12,3 +12,8 @@ What value do you think it offers?
 
   The repository holds the information on the files that have been committed,
   but not those that haven't been committed from the working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  You can use the staging area to hold all the files that been changed for the 
+  specific logical change before commiting them.
